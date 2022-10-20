@@ -27,5 +27,5 @@
 - pandas
 - numpy
 - seaborn
-- datetime
-- math
+- matplotlib.pyplot 
+- scipy
